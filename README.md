@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Aspiring Software Engineer from India</h3>
 <img align="right" alt="Data Analysis" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisuseelmohan2003&label=Profile%20views&color=0e75b6&style=flat" alt="saisuseelmohan2003" /> </p>
+
 
 
 
@@ -17,11 +17,7 @@
 - 📄 My Resume  
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/suseelmohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suseelmohan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sai-suseel-mohan-saride-97311459/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-suseel-mohan-saride-97311459/" height="30" width="40" /></a>
-<a href="https://instagram.com/saisuseelmohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saisuseelmohan" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -47,8 +43,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saisuseelmohan2003&show_icons=true&locale=en&layout=compact" alt="saisuseelmohan2003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saisuseelmohan2003&show_icons=true&locale=en" alt="saisuseelmohan2003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saisuseelmohan2003&" alt="saisuseelmohan2003" /></p>
